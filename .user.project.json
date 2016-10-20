@@ -1,0 +1,22 @@
+{
+  "run": [
+    {
+      "filePath": "/myFSAPUI5AppProj/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 7479682,
+        "displayName": "New Web Application 5",
+        "lastRunTimeStamp": 1476995280798
+      }
+    }
+  ]
+}
